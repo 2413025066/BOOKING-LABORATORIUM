@@ -1,0 +1,1 @@
+console.log("Sistem Booking Laboratorium Berjalan");

@@ -1,0 +1,1 @@
+alert("Halaman Booking Laboratorium");
